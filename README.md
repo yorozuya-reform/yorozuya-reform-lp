@@ -1,1 +1,5 @@
-# yorozuya-reform-lp
+# よろずやリフォーム LP
+
+- HTML
+- バニラCSS
+- バニラJavaScript
